@@ -1,0 +1,16 @@
+    1  cd 236145136-ortiz
+    2  ls
+    3  cd linux_practice
+    4  ls
+    5  cd notes.txt
+    6  clear
+    7  cat notes.txt
+    8  tail notes.txt
+    9  gh repo clone github.com/renxuii/236145136-ortiz
+   10  gh auth lpgin 
+   11  gh auth login
+   12  gh repo clone github.com/renxuii/236145136-ortiz
+   13  cd 236145-ortiz
+   14  ls
+   15  git checkout -b finalexam
+   16  history > exam_log.txt
