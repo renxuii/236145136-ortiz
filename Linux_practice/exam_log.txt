@@ -1,0 +1,34 @@
+    1  mkdir linux_Practice
+    2  mkdir Linux-
+    3  mkdir Linux_practice
+    4  cd Linux_practice
+    5  touch notes.txt
+    6  ls -l >> notes.txt
+    7  cat notes.txt
+    8  echo "Hello, Linux!" notes.txt
+    9  echo "This is a practical exam." >> notes.txt
+   10  echo "Hello, Linux!" > notes.txt
+   11  head -n 1 notes.txt
+   12  tail -n 1 notes.txt
+   13  echo "This is a practical exam." >> notes.txt
+   14  tail -n notes.txt
+   15  tail -n 1 notes.txt
+   16  mkdir subdir
+   17  mv notes.txt subdir
+   18  mv subdir practice_subdir
+   19  cp practice_subdir/notes.txt 
+   20  cp practice_subdir/notes.txt .
+   21  date
+   22  uptime
+   23  du -sh ~
+   24  ssh -v
+   25  php -v
+   26  mysql --version
+   27  apachectl -v
+   28  python --version
+   29  java -version
+   30  gh repo clone github.com/renxuuuii/236145136-ortiz
+   31  gh repo clone github.com/renxuii/236145136-ortiz
+   32  git checkout -b finalexam
+   33  git checkout -b finalExam
+   34  history > exam_log.txt
