@@ -1,0 +1,7 @@
+    1  cd 236145136-ortiz
+    2  git checkout
+    3  git status
+    4  git shortout
+    5  clear
+    6  git checkout -b finalexam
+    7  history > exam_log.txt
