@@ -1,34 +1,3 @@
-    1  cd
-    2  cd 236145136-ortiz
-    3  ls
-    4  cd Linux_practice
-    5  ls
-    6  cd .
-    7  cd ..
-    8  ls
-    9  cd Limux-
-   10  cd Linux-
-   11  ls
-   12  cd ..
-   13  linux_practice
-   14  cd linux_practice
-   15  ls
-   16  cd exam_log.txt
-   17  ls
-   18  cat exam_log.txt
-   19  cd..
-   20  cd ..
-   21  git status
-   22  git add .
-   23  git rm --cached Linux_practice/236145136-ortiz
-   24  -f
-   25  git -f
-   26  git checkout
-   27  git checkout final exam
-   28  git checkout finalexam
-   29  cd
-   30  cd 236145136-ortiz
-   31  git checkout finalexam
-   32* git log -p --since'2024-08-08' --until'2024-08-10' --date=sho
-   33  git checkout -b finalexam
-   34  history > exam_log.txt
+    1  cd 236145136-ortiz
+    2  git checkout -b finalExam
+    3  history > exam_log.txt
